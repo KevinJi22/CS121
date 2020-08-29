@@ -1,7 +1,7 @@
 Team: MKW
 Members: Kevin Ji, Melody Zhao, Wayne Ying
 Project: 1D - Final Proposal
-Product proposal: https:/github.com/KevinJi22/CS121/phase1/proposal.txt
+Product proposal: https://github.com/KevinJi22/CS121/blob/master/phase1/proposal.txt
 Primary author: Wayne
 
 Grutoring is a fundamental component of the learning experience at Harvey Mudd College, and professors and grutors make a lot of effort in improving the grutoring experience. During the ongoing pandemic, grutoring efforts have become completely remote. As grutors, we have found grutoring remotely to be much more inconvenient than in-person. In CS60, grutors must check Piazza for unresolved questions and either reply through the post or request a Zoom meeting. Furthermore, in CS70, grutors must repeatedly check a Google sheet which updates with student responses to see if anyone needs help. These current methods waste time for both students and grutors — neither is notified when a response from the other party comes and the system for answering questions is manually implemented and could be more efficient. 
