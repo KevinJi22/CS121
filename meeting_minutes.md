@@ -17,5 +17,5 @@ In summary, research on competitive product:
 We have most information on CS70, Brown, Illinois, primarily analyze these 3. The Berkeley/Stanford ones require other web services, so it's harder to deal with. 
 
 Kevin, 8/31/20
-* MyDigitalHand is a product that deals wit the same problem
+* MyDigitalHand is a product that deals with the same problem
   * https://mydigitalhand.org/
