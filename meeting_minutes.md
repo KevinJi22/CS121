@@ -23,3 +23,8 @@ Kevin, 8/31/20
 Wayne, 9/1/20
 * [Slack](https://slack.com/) is an app that allows organized communication between teams; focuses on chat-styled communication
 * [Piazza](https://piazza.com/) is a Q&A platform mainly for course instructors and students to communicate through posts and comments
+
+Meeting During Lab 9/4/20
+* Reviewed Competitive Research document
+* Need to add in key lessons for each product (each person will work on the products they are assigned to)
+* Plan on meeting over the weekend to work on the requirements and review competitive research document (time TBD)
