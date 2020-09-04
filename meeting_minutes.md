@@ -19,3 +19,8 @@ We have most information on CS70, Brown, Illinois, primarily analyze these 3. Th
 Kevin, 8/31/20
 * MyDigitalHand is a product that deals with the same problem
   * https://mydigitalhand.org/
+
+Meeting During Lab 9/4/20
+* Reviewed Competitive Research document
+* Need to add in key lessons for each product (each person will work on the products they are assigned to)
+* Plan on meeting over the weekend to work on the requirements and review competitive research document (time TBD)
