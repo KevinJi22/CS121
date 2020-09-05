@@ -19,6 +19,10 @@ We have most information on CS70, Brown, Illinois, primarily analyze these 3. Th
 Kevin, 8/31/20
 * MyDigitalHand is a product that deals with the same problem
   * https://mydigitalhand.org/
+  
+Wayne, 9/1/20
+* [Slack](https://slack.com/) is an app that allows organized communication between teams; focuses on chat-styled communication
+* [Piazza](https://piazza.com/) is a Q&A platform mainly for course instructors and students to communicate through posts and comments
 
 Meeting During Lab 9/4/20
 * Reviewed Competitive Research document
