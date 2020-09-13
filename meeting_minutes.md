@@ -28,3 +28,6 @@ Meeting During Lab 9/4/20
 * Reviewed Competitive Research document
 * Need to add in key lessons for each product (each person will work on the products they are assigned to)
 * Plan on meeting over the weekend to work on the requirements and review competitive research document (time TBD)
+
+Meeting on 9/13/20
+* finished requirements analysis
