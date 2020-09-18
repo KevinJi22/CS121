@@ -31,3 +31,6 @@ Meeting During Lab 9/4/20
 
 Meeting on 9/13/20
 * finished requirements analysis
+
+Meeting on 9/18/20
+* Worked on final proposal for 2 hours
