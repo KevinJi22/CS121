@@ -29,8 +29,19 @@ Meeting During Lab 9/4/20
 * Need to add in key lessons for each product (each person will work on the products they are assigned to)
 * Plan on meeting over the weekend to work on the requirements and review competitive research document (time TBD)
 
+Meeting 9/6
+* Went over competitive research and worked on preliminary requirments with team, worked together for 2 hours
+
+Meeting on 9/10/20
+* Finished PPT for Elicitation, worked for 1.5 hour
+
+Meeting on 9/11/20
+* Went over Elicitation PPT with Prof. Kampe during lab
+* Conducted Elicitation from 2:15PM to 2:45PM
+* Reorganized elicitation notes afterward to be the finalized version of elicitation report
+
 Meeting on 9/13/20
-* finished requirements analysis
+* finished requirements analysis, worked for 2 hours
 
 Meeting on 9/18/20
-* Worked on final proposal for 2 hours
+* Worked on final proposal and post mortem for 2 hours
