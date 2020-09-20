@@ -48,3 +48,4 @@ Meeting on 9/18/20
 
 Meeting on 9/20/20
 * finished up final proposal, post mortem, and work logs - took 1 hour
+* finished 2A.1 plan and briefly brainstormed architecture, made a UML class diagram, sent to Nancy for feedback (2 hours)
