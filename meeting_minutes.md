@@ -45,3 +45,6 @@ Meeting on 9/13/20
 
 Meeting on 9/18/20
 * Worked on final proposal and post mortem for 2 hours
+
+Meeting on 9/20/20
+* finished up final proposal, post mortem, and work logs - took 1 hour
