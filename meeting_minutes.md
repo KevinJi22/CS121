@@ -49,3 +49,28 @@ Meeting on 9/18/20
 Meeting on 9/20/20
 * finished up final proposal, post mortem, and work logs - took 1 hour
 * finished 2A.1 plan and briefly brainstormed architecture, made a UML class diagram, sent to Nancy for feedback (2 hours)
+
+Meeting with Prof. Kampe on 9/24/20 6PM to 7PM
+* Reviewed architecture overview with Prof. Kampe, made notes on his recommendation. 
+
+Meeting on 9/25/20 during lab
+* Attempted to revise the architectural overview diagram, did not work out very well. 
+* Divided 7 componenets among 3 of us for research, plan to do individual research/write up and get together again tomorrow.
+* Melody's components: Forum API, Chat API, Two-Factor Authentication
+* Wayne's components: Database, Notification setting
+* Kevin's components: Student/Grutor UI, Forum API
+* Goal: each person finishes their component by tomorrow
+
+Meeting with Nancy 9/25/20 2:15-2:30PM
+* Break down architecture diagram further so that it can display information clearer
+* Prototype involves looking up API and see what code we could use
+
+Meeting on 9/26/20 10:30AM to 1PM
+* Redesigned architecture, added in Home UI
+* Drew diagrams of each of the UI
+* Redid the architecture diagram, broke down by user classes
+* Progress at the end: mostly done, need to reread when we are free
+
+9/27/20 
+* Kevin and Melody looked at the architectural doc again and made little adjustments. Ready to turn in. 
+* Need to ask another team to schedule architectural review meeting. 
