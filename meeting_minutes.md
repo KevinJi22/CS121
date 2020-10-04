@@ -74,3 +74,30 @@ Meeting on 9/26/20 10:30AM to 1PM
 9/27/20 
 * Kevin and Melody looked at the architectural doc again and made little adjustments. Ready to turn in. 
 * Need to ask another team to schedule architectural review meeting. 
+
+9/29/20
+* Talked to TeamHub (Ingrid's Team) and scheduled two review meetings on Friday
+
+9/29/20 
+* Melody worked on taking notes on TeamHub's architecture; the doc is on the MKW Google Drive; Worked for 2 hours
+
+9/30/20
+* Kevin took notes on TeamHub's architecture. The doc is also on MKW Google Drive; Worked for 1 hour
+
+9/30/20
+* Wayne took notes on architecture, doc on Google Drive. Worked for 1 hour
+
+10/1/20
+* Kevin and Melody worked on organizing the questions for the Review meeting from 12:45PM to 2PM. 
+* Wayne, Kevin, Melody worked on organizing the questions for the Reivew meeting from 4PM to 4:30PM.
+* We condensed 3 pages of questions into one page for timing purposes
+
+10/2
+* Had architecture meeting from 2PM to 2:30PM
+* Kevin and Wayne were the moderators, Melody was the scribe
+* Notes taken can be found in the MKW Google Drive
+* Agree that we would divide the notes into thirds and each person takes a section since we cannot meet together on 10/3
+
+10/4 
+* Everyone worked on finalizing the architecture review report from 11:00AM to 11:45AM
+* Submitted to Sakai
