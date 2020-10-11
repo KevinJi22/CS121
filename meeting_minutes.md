@@ -101,3 +101,7 @@ Meeting on 9/26/20 10:30AM to 1PM
 10/4 
 * Everyone worked on finalizing the architecture review report from 11:00AM to 11:45AM
 * Submitted to Sakai
+
+10/11
+* finished final architectural proposal, post-mortem, and work-share estimates.
+* submitted to Sakai afterwards
