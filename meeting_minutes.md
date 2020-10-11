@@ -79,7 +79,7 @@ Meeting on 9/26/20 10:30AM to 1PM
 * Talked to TeamHub (Ingrid's Team) and scheduled two review meetings on Friday
 
 9/29/20 
-* Melody worked on taking notes on TeamHub's architecture; the doc is on the MKW Google Drive; Worked for 2 hours
+* Melody worked on taking notes on TeamHub's architecture; the doc is on the MKW Google Drive; Worked for 1 hours
 
 9/30/20
 * Kevin took notes on TeamHub's architecture. The doc is also on MKW Google Drive; Worked for 1 hour
