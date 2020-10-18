@@ -105,3 +105,10 @@ Meeting on 9/26/20 10:30AM to 1PM
 10/11
 * finished final architectural proposal, post-mortem, and work-share estimates.
 * submitted to Sakai afterwards
+
+### Project 3
+10/17
+* met for 2 hours to flesh out components and settle on interfaces/test cases
+
+10/18 
+* met for 1 hour to finish planning for projects 3 and 4
