@@ -112,3 +112,6 @@ Meeting on 9/26/20 10:30AM to 1PM
 
 10/18 
 * met for 1 hour to finish planning for projects 3 and 4
+
+11/7
+* met for 1 hour to go over component review
